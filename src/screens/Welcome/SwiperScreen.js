@@ -32,8 +32,7 @@ const SwiperScreen = ({ navigation }) => {
               Welcome to <Text style={{ color: colors.bgMain }}>' Smurf '</Text>
             </Text>
             <Text style={styles.slidetxt}>
-              Social Platform where you will meet people with your thoughts,
-              music and much more...
+              
             </Text>
           </View>
           <View>
@@ -59,7 +58,7 @@ const SwiperScreen = ({ navigation }) => {
             />
             <Text style={styles.slide}>Join the Community</Text>
             <Text style={styles.slidetxt}>
-              Make Friends with your thoughts, find what is best for you
+             
             </Text>
           </View>
         </Swiper>
